@@ -12,3 +12,5 @@ All the files you have to create on Replite and move forward
 4. index.js
 5. summarize.js
 
+complete folder will be given by postman platform if you open the link and login in replit then you seen that all the predownload folder will be present 
+example npm , package-lock.json , package.json and node_modules etc are predownload in your replit.
